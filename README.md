@@ -1,9 +1,11 @@
 📱 Instagram Clone
 
 📌 Description
+
 This project is an Instagram Clone web application that replicates some of the core functionalities of Instagram. It allows users to create posts, view a feed of posts, and interact with content. The project was built to understand full-stack web development, UI design, and integration with backend services.
 
 🛠️ Technologies Used
+
 Frontend
 HTML
 CSS
