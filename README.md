@@ -4,6 +4,10 @@
 
 This project is an Instagram Clone web application that replicates some of the core functionalities of Instagram. It allows users to create posts, view a feed of posts, and interact with content. The project was built to understand front-end web development, UI design, responsive UI.
 
+🎥 Project Demo
+
+https://dms.licdn.com/playlist/vid/v2/D4D05AQHLMazwHoCASA/mp4-720p-30fp-crf28/B4DZvk2M.vHECE-/0/1769070979135?e=1774274400&v=beta&t=PF5Laf7HdbvMdflCriQuGYJiOymbSlpea76Oej3AyhM
+
 🛠️ Technologies Used
 
 Frontend
@@ -95,6 +99,4 @@ Open the application in your browser at
 
 http://localhost:3000
 
-🎥 Project Demo
 
-https://dms.licdn.com/playlist/vid/v2/D4D05AQHLMazwHoCASA/mp4-720p-30fp-crf28/B4DZvk2M.vHECE-/0/1769070979135?e=1774274400&v=beta&t=PF5Laf7HdbvMdflCriQuGYJiOymbSlpea76Oej3AyhM
