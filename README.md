@@ -4,9 +4,7 @@
 
 This project is an Instagram Clone web application that replicates some of the core functionalities of Instagram. It allows users to create posts, view a feed of posts, and interact with content. The project was built to understand front-end web development, UI design, responsive UI.
 
-🔗 Live Website: https://instacloneonline.netlify.app/
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3cc0c287-0823-4a31-9f7d-a55fba02e505/deploy-status)](https://app.netlify.com/projects/instacloneonline/deploys)
-
+🔗 Live Website: https://tiwarishreya05.github.io/InstaClone/
 🛠️ Technologies Used
 
 Frontend
