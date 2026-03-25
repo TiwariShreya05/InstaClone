@@ -5,6 +5,7 @@
 This project is an Instagram Clone web application that replicates some of the core functionalities of Instagram. It allows users to create posts, view a feed of posts, and interact with content. The project was built to understand front-end web development, UI design, responsive UI.
 
 🔗 Live Website: https://tiwarishreya05.github.io/InstaClone/
+
 🛠️ Technologies Used
 
 Frontend
