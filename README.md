@@ -6,7 +6,7 @@ This project is an Instagram Clone web application that replicates some of the c
 
 🔗 Live Website: https://tiwarishreya05.github.io/InstaClone/
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 Frontend
 
@@ -103,6 +103,6 @@ GitHub: https://github.com/TiwariShreya05
 
 LinkedIn: https://www.linkedin.com/in/shreya-tiwari-520b692b3/
 
-Email: shreyatiwari0801@gmail
+Email: shreyatiwari0801@gmail.com
 
 
