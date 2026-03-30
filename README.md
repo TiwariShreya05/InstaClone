@@ -1,108 +1,64 @@
-📱 Instagram Clone
+# 📱 Instagram Clone
 
-📌 Description
+A frontend web application replicating core Instagram features — post uploads, a live feed, and user authentication.
 
-This project is an Instagram Clone web application that replicates some of the core functionalities of Instagram. It allows users to create posts, view a feed of posts, and interact with content. The project was built to understand front-end web development, UI design, responsive UI.
+🔗 **Live Demo → [tiwarishreya05.github.io/InstaClone](https://tiwarishreya05.github.io/InstaClone/)**
 
-🔗 Live Website: https://tiwarishreya05.github.io/InstaClone/
+---
 
-🛠️ Technologies Used:
+## 📌 Project Overview
 
-Frontend
+Built to deepen understanding of frontend development, UI design, and responsive layouts by recreating a familiar, real-world application from scratch.
 
-HTML
+---
 
-CSS
+## 🚀 Features
 
-JavaScript
+- User authentication — login, signup, and password change
+- Upload and share posts
+- View posts on a feed
+- Fully responsive user interface
 
-Tools
+---
 
-Git
+## ⚙️ Tech Stack
 
-GitHub
+- **HTML5** — structure and semantics
+- **CSS3** — styling and responsive layout
+- **JavaScript** — interactivity and logic
+- **Git & GitHub** — version control
 
-VS Code
+---
 
-🚀 Features
+## 📂 Getting Started
 
-User authentication (login and signup)
-
-Password changes
-
-Upload and share posts
-
-View posts on a feed
-
-Responsive user interface
-
-⌨️ Keyboard Shortcuts
-
-Example shortcuts used during development:
-
-Shortcut	Action
-Ctrl + S	Save file
-Ctrl + C	Copy
-Ctrl + V	Paste
-Ctrl + /	Comment code
-Ctrl + Shift + P	Open command palette
-
-⚙️ Project Development Process
-
-Planned the structure of the Instagram Clone.
-
-Designed the user interface using HTML, CSS, and JavaScript.
-
-Implemented authentication.
-
-Developed core features such as post upload and feed display.
-
-Tested the application and fixed bugs.
-
-Uploaded the final project to GitHub for version control and documentation.
-
-📚 What I Learned
-
-Through this project I learned:
-
-Building modern web applications
-
-React component structure
-
-Integrating frontend 
-
-Using authentication
-
-Version control using Git and GitHub
-
-▶️ How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/yourusername/instagram-clone.git
-
-Navigate to the project folder
-
+**1. Clone the repository**
+```bash
+git clone https://github.com/TiwariShreya05/InstaClone.git
 cd instagram-clone
+```
 
-Install dependencies
-
+**2. Install dependencies**
+```bash
 npm install
+```
 
-Start the project
-
+**3. Start the project**
+```bash
 npm start
+```
 
-Open the application in your browser at
-
+**4. Open in browser**
+```
 http://localhost:3000
+```
 
-📬 Contact
+Or use the **[live demo](https://tiwarishreya05.github.io/InstaClone/)** — no setup needed.
 
-GitHub: https://github.com/TiwariShreya05
+---
 
-LinkedIn: https://www.linkedin.com/in/shreya-tiwari-520b692b3/
+## 📬 Contact
 
-Email: shreyatiwari0801@gmail.com
-
-
+- 💼 LinkedIn: [linkedin.com/in/shreya-tiwari-520b692b3](https://www.linkedin.com/in/shreya-tiwari-520b692b3/)
+- 📧 Email: shreyatiwari0801@gmail.com
+- 🐙 GitHub: [github.com/TiwariShreya05](https://github.com/TiwariShreya05)
