@@ -5,7 +5,7 @@ A frontend web application replicating core Instagram features — post uploads,
 🔗 **Live Demo → [tiwarishreya05.github.io/InstaClone](https://tiwarishreya05.github.io/InstaClone/)**
 
 ---
-
+   
 ## 📌 Project Overview
 
 Built to deepen understanding of frontend development, UI design, and responsive layouts by recreating a familiar, real-world application from scratch.
