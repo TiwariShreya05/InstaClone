@@ -12,7 +12,7 @@ Built to deepen understanding of frontend development, UI design, and responsive
 
 ---
 
-## 🚀 Features
+## 🚀 Features   
 
 - User authentication — login, signup, and password change
 - Upload and share posts
